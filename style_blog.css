@@ -1,0 +1,145 @@
+.estilodbody {
+  background-color: black;
+}
+
+.estiloheader {
+  background-color: rgb(238, 32, 4);
+}
+
+.estilodiv {
+  display: flex;
+  justify-content: end;
+  margin-right: 20px;
+}
+
+.estilolinks1 {
+  color: white;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.estilolinks2 {
+  color: white;
+  margin-left: 10px;
+}
+
+.estilonav {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(73, 4, 4);
+}
+
+.estilomain {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.estiloaside {
+  width: 23%;
+  height: 100%;
+  padding: 5px;
+  justify-content: left;
+  align-items: left;
+  background-color: rgb(19, 145, 76);
+}
+
+.textoaside {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.textoasidesecundario {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.estilolirojo:hover {
+  color: red;
+}
+.estiloliazul:hover {
+  color: blue;
+}
+
+
+
+.estilocelesteli:hover {
+  color: rgb(49, 183, 228);
+}
+
+.estilosection {
+  width: 77%;
+  height: 100%;
+  background-color: rgb(69, 12, 122);
+}
+
+.estiloarticle0 {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.estiloarticle1 {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.estiloarticle2 {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(8, 65, 65);
+}
+
+.estiloh1izquierdo {
+  margin-right: 10px;
+}
+
+.estiloh1derecho {
+  margin-left: 10px;
+}
+
+.estiloh1antesdetabla {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  font-weight: 650;
+}
+.tabla {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+
+.estiloform {
+  background-color: orangered;
+  color: white;
+}
+
+.estiloceleste {
+  color: rgb(49, 183, 228);
+}
+
+.estilorojo {
+  color: red;
+}
+
+.estiloazul {
+  color: blue;
+}
+
+.estiloblanco {
+  color: white;
+}
+.estilofooter {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(224, 7, 51);
+}
